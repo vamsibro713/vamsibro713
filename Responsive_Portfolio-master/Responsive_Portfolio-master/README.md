@@ -16,7 +16,7 @@ A fully responsive portfolio website showcasing my skills and projects. 🚀
 
 To run the portfolio locally, follow these steps:
 
-1. 📥 Clone this repository: https://github.com/vamsibro713/vamsibro713/tree/main/Responsive_Portfolio-master/Responsive_Portfolio-master
+1. 📥 Clone this repository: `https://github.com/vamsibro713/vamsibro713/tree/main/Responsive_Portfolio-master/Responsive_Portfolio-master`
 2. 📂 Navigate to the project directory: `cd Responsive_Dashbord`
 3. 🌐 Open the `index.html` file in your preferred web browser.
 
